@@ -147,7 +147,7 @@ This project helped me practise:
 
 **Aryan** — Aspiring Data Analyst passionate about turning raw data into actionable business insights using Power BI, Excel, and SQL.
 
-📫 Connect with me on [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+📫 Connect with me on [LinkedIn](www.linkedin.com/in/aryan-singh-bb07b1269) | [GitHub](https://github.com/aryan01-analytics)
 
 ---
 
